@@ -20,7 +20,7 @@
   "outroText": "我希望你喜欢这个小小的惊喜!",
   "replayText": "如果你喜欢的话，可以再看一次哦!或者……",
   "outroSmiley": ":)",
-  "music": "https://m8.music.126.net/20250213133414/cddf762ff08c551cebc22a56a04cc700/ymusic/535f/055f/5208/d55541864825b13d2d63ebab8a475a82.mp3?vuutv=GxXEj7osqOyUTn8GnAtd9iBwkqn5OHrOFwMCzHUGhj6J4ZlwQQ3uswEU6m013Vc7ecDOMd2IBVx6WoWjVS/Zh9JUAPpQKngQuCysxWH+hm4=?from=longzhu_api",
+  "music": "music/bgMusic.mp3",
   "fonts": [
     {
       "name": "Ma Shan Zheng",
